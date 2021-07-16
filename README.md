@@ -20,7 +20,6 @@ Visualize an earthquake data set.
 
    * Legend displayed that provides context for map data.
 
-![](Images/quake_map.png)
 - - -
 
 ### Level 2: More Data 
